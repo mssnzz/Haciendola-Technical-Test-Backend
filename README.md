@@ -1,5 +1,5 @@
 
-# Proyecto NestJS - Guía de Inicio
+# Prueba tecnica Haciendola
 
 Bienvenidos a la prueba tecnica de Haciendola. En este proyecto, crearemos una aplicación web que permita a los usuarios registrarse y iniciar sesión en nuestra aplicación. Este proyecto utiliza NestJS como framework para construir aplicaciones del lado del servidor.
 
